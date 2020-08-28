@@ -1,0 +1,63 @@
+.home {
+
+  .van-tabbar {
+    box-sizing: border-box;
+    height: 83.3px;
+    border-top:#bebebe 1px solid;
+    padding-top: 5px;
+  }
+
+  .van-tabbar-item{
+    justify-content: flex-start;
+  }
+
+  .van-tabbar-item__icon{
+    font-size: 27.8px;
+  }
+}
+
+.index{
+  .van-nav-bar{
+    height: 1.48rem;
+  }
+  .van-nav-bar__title{
+    font-size: .59rem;
+    font-weight: 400;
+  }
+
+  .my-swipe .van-swipe-item{
+    height: 5.46rem;
+    img{
+      height: 100%;
+      width: 100%;
+    }
+  }
+
+  .van-swipe__indicator{
+    width: .55rem;
+    border-radius:0;
+    height: .1rem;
+  }
+  .van-grid{
+    height: 3.15rem;
+    p{
+      font-size: .32rem;
+      margin-top: .4rem;
+    }
+  }
+
+  .van-icon{
+    font-size: .7rem;
+  }
+
+}
+
+.detail{
+  .my-swipe .van-swipe-item{
+    height: 8.12rem;
+    img{
+      height: 100%;
+      width: 100%;
+    }
+  }
+}
