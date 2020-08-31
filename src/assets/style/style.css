@@ -1,0 +1,39 @@
+.home .van-tabbar {
+  box-sizing: border-box;
+  height: 83.3px;
+  border-top: #bebebe 1px solid;
+  padding-top: 5px; }
+.home .van-tabbar-item {
+  justify-content: flex-start; }
+.home .van-tabbar-item__icon {
+  font-size: 27.8px; }
+
+.index .van-nav-bar {
+  height: 1.48rem; }
+.index .van-nav-bar__title {
+  font-size: .59rem;
+  font-weight: 400; }
+.index .my-swipe .van-swipe-item {
+  height: 5.46rem; }
+  .index .my-swipe .van-swipe-item img {
+    height: 100%;
+    width: 100%; }
+.index .van-swipe__indicator {
+  width: .55rem;
+  border-radius: 0;
+  height: .1rem; }
+.index .van-grid {
+  height: 3.15rem; }
+  .index .van-grid p {
+    font-size: .32rem;
+    margin-top: .4rem; }
+.index .van-icon {
+  font-size: .7rem; }
+
+.detail .my-swipe .van-swipe-item {
+  height: 8.12rem; }
+  .detail .my-swipe .van-swipe-item img {
+    height: 100%;
+    width: 100%; }
+
+/*# sourceMappingURL=style.css.map */
